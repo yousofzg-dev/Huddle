@@ -111,11 +111,12 @@ body {
 
   .img-content {
     width: 100%;
+    margin-top: 40px;
   }
 
   .content-right_title {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 40px;
   }
   .content-right_text {
     text-align: center;
