@@ -109,6 +109,9 @@ body {
     justify-content: center;
   }
 
+  .img-logo {
+    margin-top: 35px;
+  }
   .img-content {
     width: 100%;
     margin-top: 40px;
@@ -116,7 +119,7 @@ body {
 
   .content-right_title {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 35px;
   }
   .content-right_text {
     text-align: center;
